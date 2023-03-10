@@ -47,7 +47,7 @@
             <div class="h-100 p-5 text-bg-dark rounded-3">
               <h2>Sjekk ut prosjektene mine.</h2>
               <p>Jeg har publisert alt jeg har laget på fritiden og skolen på <a href="https://github.com"><b>Github</b></a>. Trykk på knappen under for å sjekke ut Github siden min! </p>     
-              <a href="https://github.com/Skate-Bread">  <button  class="btn btn-outline-light" type="button">Github siden min!</button> </a>
+              <a href="https://github.com/Skate-Bread" target="_blank">  <button  class="btn btn-outline-light" type="button">Github siden min!</button> </a>
             </div>
           </div>
         <div class="col-md-6 animate__animated animate__slideInRight">
@@ -67,7 +67,7 @@
       <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Om meg</a></li>
       <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Prosjekter</a></li>
     </ul>
-    <p class="text-center text-muted">&copy; 2023 Benjamin Bjørbæk-Hansen <a href="https://github.com/Skate-Bread/Portifolio">source koden</a></p>
+    <p class="text-center text-muted">&copy; 2023 Benjamin Bjørbæk-Hansen <a href="https://github.com/Skate-Bread/Portifolio" target="_blank">source koden</a></p>
   </footer>
 </div>
 </body>
