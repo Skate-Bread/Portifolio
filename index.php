@@ -67,7 +67,7 @@
       <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Om meg</a></li>
       <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Prosjekter</a></li>
     </ul>
-    <p class="text-center text-muted">&copy; 2023 Benjamin Bjørbæk-Hansen</p>
+    <p class="text-center text-muted">&copy; 2023 Benjamin Bjørbæk-Hansen <a href="https://github.com/Skate-Bread/Portifolio">source koden</a></p>
   </footer>
 </div>
 </body>
